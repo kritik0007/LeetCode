@@ -38,6 +38,7 @@ leetcode problems i have solved
 | ------- | ------- |
 | [0136-single-number](https://github.com/kritik0007/LeetCode/tree/main/0136-single-number/) | Easy |
 | [0334-increasing-triplet-subsequence](https://github.com/kritik0007/LeetCode/tree/main/0334-increasing-triplet-subsequence/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/kritik0007/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -62,6 +63,7 @@ leetcode problems i have solved
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/kritik0007/LeetCode/tree/main/0374-guess-number-higher-or-lower/) | Easy |
+| [1004-max-consecutive-ones-iii](https://github.com/kritik0007/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Interactive
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -88,4 +90,12 @@ leetcode problems i have solved
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/kritik0007/LeetCode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/kritik0007/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/kritik0007/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 <!---LeetCode Topics End-->
