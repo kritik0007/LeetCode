@@ -29,6 +29,7 @@ leetcode problems i have solved
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/kritik0007/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0338-counting-bits](https://github.com/kritik0007/LeetCode/tree/main/0338-counting-bits/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -124,4 +125,9 @@ leetcode problems i have solved
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/kritik0007/LeetCode/tree/main/0009-palindrome-number/) | Easy |
 | [0069-sqrtx](https://github.com/kritik0007/LeetCode/tree/main/0069-sqrtx/) | Easy |
+| [0070-climbing-stairs](https://github.com/kritik0007/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/kritik0007/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
