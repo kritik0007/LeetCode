@@ -118,4 +118,8 @@ leetcode problems i have solved
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2352-equal-row-and-column-pairs](https://github.com/kritik0007/LeetCode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0009-palindrome-number](https://github.com/kritik0007/LeetCode/tree/main/0009-palindrome-number/) | Easy |
 <!---LeetCode Topics End-->
