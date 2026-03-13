@@ -95,21 +95,25 @@ leetcode problems i have solved
 | [0104-maximum-depth-of-binary-tree](https://github.com/kritik0007/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/kritik0007/LeetCode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0872-leaf-similar-trees](https://github.com/kritik0007/LeetCode/tree/main/0872-leaf-similar-trees/) | Easy |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/kritik0007/LeetCode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kritik0007/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0872-leaf-similar-trees](https://github.com/kritik0007/LeetCode/tree/main/0872-leaf-similar-trees/) | Easy |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/kritik0007/LeetCode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kritik0007/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/kritik0007/LeetCode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kritik0007/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/kritik0007/LeetCode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0872-leaf-similar-trees](https://github.com/kritik0007/LeetCode/tree/main/0872-leaf-similar-trees/) | Easy |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/kritik0007/LeetCode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
