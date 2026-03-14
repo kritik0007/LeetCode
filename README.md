@@ -51,6 +51,7 @@ leetcode problems i have solved
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/kritik0007/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0066-plus-one](https://github.com/kritik0007/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0136-single-number](https://github.com/kritik0007/LeetCode/tree/main/0136-single-number/) | Easy |
 | [0334-increasing-triplet-subsequence](https://github.com/kritik0007/LeetCode/tree/main/0334-increasing-triplet-subsequence/) | Medium |
@@ -146,6 +147,7 @@ leetcode problems i have solved
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/kritik0007/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [2352-equal-row-and-column-pairs](https://github.com/kritik0007/LeetCode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -154,6 +156,7 @@ leetcode problems i have solved
 | [0009-palindrome-number](https://github.com/kritik0007/LeetCode/tree/main/0009-palindrome-number/) | Easy |
 | [0012-integer-to-roman](https://github.com/kritik0007/LeetCode/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/kritik0007/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
+| [0048-rotate-image](https://github.com/kritik0007/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0066-plus-one](https://github.com/kritik0007/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/kritik0007/LeetCode/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/kritik0007/LeetCode/tree/main/0069-sqrtx/) | Easy |
