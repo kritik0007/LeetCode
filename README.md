@@ -51,6 +51,7 @@ leetcode problems i have solved
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/kritik0007/LeetCode/tree/main/0067-add-binary/) | Easy |
+| [0089-gray-code](https://github.com/kritik0007/LeetCode/tree/main/0089-gray-code/) | Medium |
 | [0136-single-number](https://github.com/kritik0007/LeetCode/tree/main/0136-single-number/) | Easy |
 | [0338-counting-bits](https://github.com/kritik0007/LeetCode/tree/main/0338-counting-bits/) | Easy |
 ## Array
@@ -171,6 +172,7 @@ leetcode problems i have solved
 | [0067-add-binary](https://github.com/kritik0007/LeetCode/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/kritik0007/LeetCode/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/kritik0007/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
+| [0089-gray-code](https://github.com/kritik0007/LeetCode/tree/main/0089-gray-code/) | Medium |
 | [0168-excel-sheet-column-title](https://github.com/kritik0007/LeetCode/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0202-happy-number](https://github.com/kritik0007/LeetCode/tree/main/0202-happy-number/) | Easy |
 | [0258-add-digits](https://github.com/kritik0007/LeetCode/tree/main/0258-add-digits/) | Easy |
@@ -195,4 +197,8 @@ leetcode problems i have solved
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/kritik0007/LeetCode/tree/main/0062-unique-paths/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0089-gray-code](https://github.com/kritik0007/LeetCode/tree/main/0089-gray-code/) | Medium |
 <!---LeetCode Topics End-->
