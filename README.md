@@ -36,6 +36,7 @@ leetcode problems i have solved
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0050-powx-n](https://github.com/kritik0007/LeetCode/tree/main/0050-powx-n/) | Medium |
 | [0060-permutation-sequence](https://github.com/kritik0007/LeetCode/tree/main/0060-permutation-sequence/) | Hard |
 | [0206-reverse-linked-list](https://github.com/kritik0007/LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0394-decode-string](https://github.com/kritik0007/LeetCode/tree/main/0394-decode-string/) | Medium |
@@ -163,6 +164,7 @@ leetcode problems i have solved
 | [0012-integer-to-roman](https://github.com/kritik0007/LeetCode/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/kritik0007/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
 | [0048-rotate-image](https://github.com/kritik0007/LeetCode/tree/main/0048-rotate-image/) | Medium |
+| [0050-powx-n](https://github.com/kritik0007/LeetCode/tree/main/0050-powx-n/) | Medium |
 | [0060-permutation-sequence](https://github.com/kritik0007/LeetCode/tree/main/0060-permutation-sequence/) | Hard |
 | [0062-unique-paths](https://github.com/kritik0007/LeetCode/tree/main/0062-unique-paths/) | Medium |
 | [0066-plus-one](https://github.com/kritik0007/LeetCode/tree/main/0066-plus-one/) | Easy |
