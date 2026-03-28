@@ -41,6 +41,7 @@ leetcode problems i have solved
 | [0060-permutation-sequence](https://github.com/kritik0007/LeetCode/tree/main/0060-permutation-sequence/) | Hard |
 | [0206-reverse-linked-list](https://github.com/kritik0007/LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0273-integer-to-english-words](https://github.com/kritik0007/LeetCode/tree/main/0273-integer-to-english-words/) | Hard |
+| [0326-power-of-three](https://github.com/kritik0007/LeetCode/tree/main/0326-power-of-three/) | Easy |
 | [0394-decode-string](https://github.com/kritik0007/LeetCode/tree/main/0394-decode-string/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -186,6 +187,7 @@ leetcode problems i have solved
 | [0258-add-digits](https://github.com/kritik0007/LeetCode/tree/main/0258-add-digits/) | Easy |
 | [0273-integer-to-english-words](https://github.com/kritik0007/LeetCode/tree/main/0273-integer-to-english-words/) | Hard |
 | [0292-nim-game](https://github.com/kritik0007/LeetCode/tree/main/0292-nim-game/) | Easy |
+| [0326-power-of-three](https://github.com/kritik0007/LeetCode/tree/main/0326-power-of-three/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
