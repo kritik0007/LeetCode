@@ -180,6 +180,7 @@ leetcode problems i have solved
 | [0189-rotate-array](https://github.com/kritik0007/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/kritik0007/LeetCode/tree/main/0202-happy-number/) | Easy |
 | [0204-count-primes](https://github.com/kritik0007/LeetCode/tree/main/0204-count-primes/) | Medium |
+| [0223-rectangle-area](https://github.com/kritik0007/LeetCode/tree/main/0223-rectangle-area/) | Medium |
 | [0258-add-digits](https://github.com/kritik0007/LeetCode/tree/main/0258-add-digits/) | Easy |
 | [0292-nim-game](https://github.com/kritik0007/LeetCode/tree/main/0292-nim-game/) | Easy |
 ## Memoization
@@ -211,4 +212,8 @@ leetcode problems i have solved
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/kritik0007/LeetCode/tree/main/0204-count-primes/) | Medium |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0223-rectangle-area](https://github.com/kritik0007/LeetCode/tree/main/0223-rectangle-area/) | Medium |
 <!---LeetCode Topics End-->
