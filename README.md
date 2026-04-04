@@ -8,6 +8,7 @@ leetcode problems i have solved
 | ------- | ------- |
 | [0012-integer-to-roman](https://github.com/kritik0007/LeetCode/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/kritik0007/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
+| [0022-generate-parentheses](https://github.com/kritik0007/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kritik0007/LeetCode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0067-add-binary](https://github.com/kritik0007/LeetCode/tree/main/0067-add-binary/) | Easy |
 | [0168-excel-sheet-column-title](https://github.com/kritik0007/LeetCode/tree/main/0168-excel-sheet-column-title/) | Easy |
@@ -47,6 +48,7 @@ leetcode problems i have solved
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/kritik0007/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0062-unique-paths](https://github.com/kritik0007/LeetCode/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/kritik0007/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0338-counting-bits](https://github.com/kritik0007/LeetCode/tree/main/0338-counting-bits/) | Easy |
@@ -220,6 +222,7 @@ leetcode problems i have solved
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/kritik0007/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0089-gray-code](https://github.com/kritik0007/LeetCode/tree/main/0089-gray-code/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
