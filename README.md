@@ -61,6 +61,7 @@ leetcode problems i have solved
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/kritik0007/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0027-remove-element](https://github.com/kritik0007/LeetCode/tree/main/0027-remove-element/) | Easy |
 | [0048-rotate-image](https://github.com/kritik0007/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0066-plus-one](https://github.com/kritik0007/LeetCode/tree/main/0066-plus-one/) | Easy |
@@ -148,6 +149,7 @@ leetcode problems i have solved
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/kritik0007/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0012-integer-to-roman](https://github.com/kritik0007/LeetCode/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/kritik0007/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
 | [0202-happy-number](https://github.com/kritik0007/LeetCode/tree/main/0202-happy-number/) | Easy |
