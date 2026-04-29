@@ -77,6 +77,7 @@ leetcode problems i have solved
 | [0334-increasing-triplet-subsequence](https://github.com/kritik0007/LeetCode/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0735-asteroid-collision](https://github.com/kritik0007/LeetCode/tree/main/0735-asteroid-collision/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/kritik0007/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1250-check-if-it-is-a-good-array](https://github.com/kritik0007/LeetCode/tree/main/1250-check-if-it-is-a-good-array/) | Hard |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/kritik0007/LeetCode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [2352-equal-row-and-column-pairs](https://github.com/kritik0007/LeetCode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 ## Design
@@ -203,6 +204,7 @@ leetcode problems i have solved
 | [0292-nim-game](https://github.com/kritik0007/LeetCode/tree/main/0292-nim-game/) | Easy |
 | [0326-power-of-three](https://github.com/kritik0007/LeetCode/tree/main/0326-power-of-three/) | Easy |
 | [0343-integer-break](https://github.com/kritik0007/LeetCode/tree/main/0343-integer-break/) | Medium |
+| [1250-check-if-it-is-a-good-array](https://github.com/kritik0007/LeetCode/tree/main/1250-check-if-it-is-a-good-array/) | Hard |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -212,6 +214,7 @@ leetcode problems i have solved
 | ------- | ------- |
 | [0204-count-primes](https://github.com/kritik0007/LeetCode/tree/main/0204-count-primes/) | Medium |
 | [0258-add-digits](https://github.com/kritik0007/LeetCode/tree/main/0258-add-digits/) | Easy |
+| [1250-check-if-it-is-a-good-array](https://github.com/kritik0007/LeetCode/tree/main/1250-check-if-it-is-a-good-array/) | Hard |
 ## Brainteaser
 | Problem Name | Difficulty |
 | ------- | ------- |
