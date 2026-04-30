@@ -22,6 +22,7 @@ leetcode problems i have solved
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0234-palindrome-linked-list](https://github.com/kritik0007/LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0394-decode-string](https://github.com/kritik0007/LeetCode/tree/main/0394-decode-string/) | Medium |
 | [0735-asteroid-collision](https://github.com/kritik0007/LeetCode/tree/main/0735-asteroid-collision/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/kritik0007/LeetCode/tree/main/2390-removing-stars-from-a-string/) | Medium |
@@ -41,6 +42,7 @@ leetcode problems i have solved
 | [0021-merge-two-sorted-lists](https://github.com/kritik0007/LeetCode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0203-remove-linked-list-elements](https://github.com/kritik0007/LeetCode/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/kritik0007/LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/kritik0007/LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0328-odd-even-linked-list](https://github.com/kritik0007/LeetCode/tree/main/0328-odd-even-linked-list/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
@@ -51,6 +53,7 @@ leetcode problems i have solved
 | [0060-permutation-sequence](https://github.com/kritik0007/LeetCode/tree/main/0060-permutation-sequence/) | Hard |
 | [0203-remove-linked-list-elements](https://github.com/kritik0007/LeetCode/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/kritik0007/LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/kritik0007/LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0273-integer-to-english-words](https://github.com/kritik0007/LeetCode/tree/main/0273-integer-to-english-words/) | Hard |
 | [0326-power-of-three](https://github.com/kritik0007/LeetCode/tree/main/0326-power-of-three/) | Easy |
 | [0394-decode-string](https://github.com/kritik0007/LeetCode/tree/main/0394-decode-string/) | Medium |
@@ -119,6 +122,7 @@ leetcode problems i have solved
 | [0151-reverse-words-in-a-string](https://github.com/kritik0007/LeetCode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0189-rotate-array](https://github.com/kritik0007/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/kritik0007/LeetCode/tree/main/0202-happy-number/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/kritik0007/LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0443-string-compression](https://github.com/kritik0007/LeetCode/tree/main/0443-string-compression/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
