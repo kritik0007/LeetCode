@@ -61,6 +61,7 @@ leetcode problems i have solved
 | [0343-integer-break](https://github.com/kritik0007/LeetCode/tree/main/0343-integer-break/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/kritik0007/LeetCode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [3225-maximum-score-from-grid-operations](https://github.com/kritik0007/LeetCode/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
+| [3742-maximum-path-score-in-a-grid](https://github.com/kritik0007/LeetCode/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -87,6 +88,7 @@ leetcode problems i have solved
 | [2352-equal-row-and-column-pairs](https://github.com/kritik0007/LeetCode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/kritik0007/LeetCode/tree/main/2470-number-of-subarrays-with-lcm-equal-to-k/) | Medium |
 | [3225-maximum-score-from-grid-operations](https://github.com/kritik0007/LeetCode/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
+| [3742-maximum-path-score-in-a-grid](https://github.com/kritik0007/LeetCode/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -186,6 +188,7 @@ leetcode problems i have solved
 | [0048-rotate-image](https://github.com/kritik0007/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [2352-equal-row-and-column-pairs](https://github.com/kritik0007/LeetCode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [3225-maximum-score-from-grid-operations](https://github.com/kritik0007/LeetCode/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
+| [3742-maximum-path-score-in-a-grid](https://github.com/kritik0007/LeetCode/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
