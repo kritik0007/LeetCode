@@ -39,6 +39,7 @@ leetcode problems i have solved
 | [0002-add-two-numbers](https://github.com/kritik0007/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/kritik0007/LeetCode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/kritik0007/LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
+| [0328-odd-even-linked-list](https://github.com/kritik0007/LeetCode/tree/main/0328-odd-even-linked-list/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
