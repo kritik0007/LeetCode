@@ -9,6 +9,7 @@ leetcode problems i have solved
 | [0006-zigzag-conversion](https://github.com/kritik0007/LeetCode/tree/main/0006-zigzag-conversion/) | Medium |
 | [0012-integer-to-roman](https://github.com/kritik0007/LeetCode/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/kritik0007/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
+| [0020-valid-parentheses](https://github.com/kritik0007/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/kritik0007/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kritik0007/LeetCode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0067-add-binary](https://github.com/kritik0007/LeetCode/tree/main/0067-add-binary/) | Easy |
@@ -24,6 +25,7 @@ leetcode problems i have solved
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/kritik0007/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kritik0007/LeetCode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/kritik0007/LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0394-decode-string](https://github.com/kritik0007/LeetCode/tree/main/0394-decode-string/) | Medium |
