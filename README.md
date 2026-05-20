@@ -163,6 +163,7 @@ leetcode problems i have solved
 | [0098-validate-binary-search-tree](https://github.com/kritik0007/LeetCode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kritik0007/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/kritik0007/LeetCode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kritik0007/LeetCode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0437-path-sum-iii](https://github.com/kritik0007/LeetCode/tree/main/0437-path-sum-iii/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/kritik0007/LeetCode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0872-leaf-similar-trees](https://github.com/kritik0007/LeetCode/tree/main/0872-leaf-similar-trees/) | Easy |
@@ -174,6 +175,7 @@ leetcode problems i have solved
 | [0098-validate-binary-search-tree](https://github.com/kritik0007/LeetCode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kritik0007/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/kritik0007/LeetCode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kritik0007/LeetCode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0437-path-sum-iii](https://github.com/kritik0007/LeetCode/tree/main/0437-path-sum-iii/) | Medium |
 | [0872-leaf-similar-trees](https://github.com/kritik0007/LeetCode/tree/main/0872-leaf-similar-trees/) | Easy |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/kritik0007/LeetCode/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
@@ -190,6 +192,7 @@ leetcode problems i have solved
 | [0098-validate-binary-search-tree](https://github.com/kritik0007/LeetCode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kritik0007/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/kritik0007/LeetCode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kritik0007/LeetCode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0437-path-sum-iii](https://github.com/kritik0007/LeetCode/tree/main/0437-path-sum-iii/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/kritik0007/LeetCode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0872-leaf-similar-trees](https://github.com/kritik0007/LeetCode/tree/main/0872-leaf-similar-trees/) | Easy |
