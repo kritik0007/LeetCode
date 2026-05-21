@@ -22,6 +22,7 @@ leetcode problems i have solved
 | [0649-dota2-senate](https://github.com/kritik0007/LeetCode/tree/main/0649-dota2-senate/) | Medium |
 | [1657-determine-if-two-strings-are-close](https://github.com/kritik0007/LeetCode/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/kritik0007/LeetCode/tree/main/2390-removing-stars-from-a-string/) | Medium |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/kritik0007/LeetCode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -121,6 +122,7 @@ leetcode problems i have solved
 | [2553-separate-the-digits-in-an-array](https://github.com/kritik0007/LeetCode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/kritik0007/LeetCode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/kritik0007/LeetCode/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/kritik0007/LeetCode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3225-maximum-score-from-grid-operations](https://github.com/kritik0007/LeetCode/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/kritik0007/LeetCode/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3660-jump-game-ix](https://github.com/kritik0007/LeetCode/tree/main/3660-jump-game-ix/) | Medium |
@@ -239,6 +241,7 @@ leetcode problems i have solved
 | [1657-determine-if-two-strings-are-close](https://github.com/kritik0007/LeetCode/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [2352-equal-row-and-column-pairs](https://github.com/kritik0007/LeetCode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/kritik0007/LeetCode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/kritik0007/LeetCode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/kritik0007/LeetCode/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -340,4 +343,8 @@ leetcode problems i have solved
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/kritik0007/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/kritik0007/LeetCode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 <!---LeetCode Topics End-->
