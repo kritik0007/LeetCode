@@ -111,6 +111,7 @@ leetcode problems i have solved
 | [0189-rotate-array](https://github.com/kritik0007/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0204-count-primes](https://github.com/kritik0007/LeetCode/tree/main/0204-count-primes/) | Medium |
 | [0217-contains-duplicate](https://github.com/kritik0007/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
+| [0238-product-of-array-except-self](https://github.com/kritik0007/LeetCode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0334-increasing-triplet-subsequence](https://github.com/kritik0007/LeetCode/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0735-asteroid-collision](https://github.com/kritik0007/LeetCode/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/kritik0007/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
@@ -231,6 +232,7 @@ leetcode problems i have solved
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/kritik0007/LeetCode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/kritik0007/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [3225-maximum-score-from-grid-operations](https://github.com/kritik0007/LeetCode/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 ## Hash Table
