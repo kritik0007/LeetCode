@@ -79,6 +79,7 @@ leetcode problems i have solved
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kritik0007/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0338-counting-bits](https://github.com/kritik0007/LeetCode/tree/main/0338-counting-bits/) | Easy |
 | [0343-integer-break](https://github.com/kritik0007/LeetCode/tree/main/0343-integer-break/) | Medium |
+| [1340-jump-game-v](https://github.com/kritik0007/LeetCode/tree/main/1340-jump-game-v/) | Hard |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/kritik0007/LeetCode/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/kritik0007/LeetCode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/kritik0007/LeetCode/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
@@ -117,6 +118,7 @@ leetcode problems i have solved
 | [0739-daily-temperatures](https://github.com/kritik0007/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/kritik0007/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1250-check-if-it-is-a-good-array](https://github.com/kritik0007/LeetCode/tree/main/1250-check-if-it-is-a-good-array/) | Hard |
+| [1340-jump-game-v](https://github.com/kritik0007/LeetCode/tree/main/1340-jump-game-v/) | Hard |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/kritik0007/LeetCode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/kritik0007/LeetCode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1861-rotating-the-box](https://github.com/kritik0007/LeetCode/tree/main/1861-rotating-the-box/) | Medium |
@@ -254,6 +256,7 @@ leetcode problems i have solved
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/kritik0007/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
+| [1340-jump-game-v](https://github.com/kritik0007/LeetCode/tree/main/1340-jump-game-v/) | Hard |
 | [1657-determine-if-two-strings-are-close](https://github.com/kritik0007/LeetCode/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
