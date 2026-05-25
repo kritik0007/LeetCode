@@ -21,6 +21,7 @@ leetcode problems i have solved
 | [0443-string-compression](https://github.com/kritik0007/LeetCode/tree/main/0443-string-compression/) | Medium |
 | [0649-dota2-senate](https://github.com/kritik0007/LeetCode/tree/main/0649-dota2-senate/) | Medium |
 | [1657-determine-if-two-strings-are-close](https://github.com/kritik0007/LeetCode/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
+| [1871-jump-game-vii](https://github.com/kritik0007/LeetCode/tree/main/1871-jump-game-vii/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/kritik0007/LeetCode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/kritik0007/LeetCode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 ## Stack
@@ -82,6 +83,7 @@ leetcode problems i have solved
 | [1340-jump-game-v](https://github.com/kritik0007/LeetCode/tree/main/1340-jump-game-v/) | Hard |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/kritik0007/LeetCode/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/kritik0007/LeetCode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
+| [1871-jump-game-vii](https://github.com/kritik0007/LeetCode/tree/main/1871-jump-game-vii/) | Medium |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/kritik0007/LeetCode/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [3225-maximum-score-from-grid-operations](https://github.com/kritik0007/LeetCode/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3660-jump-game-ix](https://github.com/kritik0007/LeetCode/tree/main/3660-jump-game-ix/) | Medium |
@@ -232,11 +234,13 @@ leetcode problems i have solved
 | ------- | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/kritik0007/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/kritik0007/LeetCode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
+| [1871-jump-game-vii](https://github.com/kritik0007/LeetCode/tree/main/1871-jump-game-vii/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/kritik0007/LeetCode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/kritik0007/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1871-jump-game-vii](https://github.com/kritik0007/LeetCode/tree/main/1871-jump-game-vii/) | Medium |
 | [3225-maximum-score-from-grid-operations](https://github.com/kritik0007/LeetCode/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
