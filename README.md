@@ -83,6 +83,7 @@ leetcode problems i have solved
 | [1340-jump-game-v](https://github.com/kritik0007/LeetCode/tree/main/1340-jump-game-v/) | Hard |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/kritik0007/LeetCode/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/kritik0007/LeetCode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
+| [1735-count-ways-to-make-array-with-product](https://github.com/kritik0007/LeetCode/tree/main/1735-count-ways-to-make-array-with-product/) | Hard |
 | [1871-jump-game-vii](https://github.com/kritik0007/LeetCode/tree/main/1871-jump-game-vii/) | Medium |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/kritik0007/LeetCode/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [3225-maximum-score-from-grid-operations](https://github.com/kritik0007/LeetCode/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
@@ -123,6 +124,7 @@ leetcode problems i have solved
 | [1250-check-if-it-is-a-good-array](https://github.com/kritik0007/LeetCode/tree/main/1250-check-if-it-is-a-good-array/) | Hard |
 | [1340-jump-game-v](https://github.com/kritik0007/LeetCode/tree/main/1340-jump-game-v/) | Hard |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/kritik0007/LeetCode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
+| [1735-count-ways-to-make-array-with-product](https://github.com/kritik0007/LeetCode/tree/main/1735-count-ways-to-make-array-with-product/) | Hard |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/kritik0007/LeetCode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1861-rotating-the-box](https://github.com/kritik0007/LeetCode/tree/main/1861-rotating-the-box/) | Medium |
 | [1914-cyclically-rotating-a-grid](https://github.com/kritik0007/LeetCode/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
@@ -308,6 +310,7 @@ leetcode problems i have solved
 | [0326-power-of-three](https://github.com/kritik0007/LeetCode/tree/main/0326-power-of-three/) | Easy |
 | [0343-integer-break](https://github.com/kritik0007/LeetCode/tree/main/0343-integer-break/) | Medium |
 | [1250-check-if-it-is-a-good-array](https://github.com/kritik0007/LeetCode/tree/main/1250-check-if-it-is-a-good-array/) | Hard |
+| [1735-count-ways-to-make-array-with-product](https://github.com/kritik0007/LeetCode/tree/main/1735-count-ways-to-make-array-with-product/) | Hard |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/kritik0007/LeetCode/tree/main/2470-number-of-subarrays-with-lcm-equal-to-k/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/kritik0007/LeetCode/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 ## Memoization
@@ -320,6 +323,7 @@ leetcode problems i have solved
 | [0204-count-primes](https://github.com/kritik0007/LeetCode/tree/main/0204-count-primes/) | Medium |
 | [0258-add-digits](https://github.com/kritik0007/LeetCode/tree/main/0258-add-digits/) | Easy |
 | [1250-check-if-it-is-a-good-array](https://github.com/kritik0007/LeetCode/tree/main/1250-check-if-it-is-a-good-array/) | Hard |
+| [1735-count-ways-to-make-array-with-product](https://github.com/kritik0007/LeetCode/tree/main/1735-count-ways-to-make-array-with-product/) | Hard |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/kritik0007/LeetCode/tree/main/2470-number-of-subarrays-with-lcm-equal-to-k/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/kritik0007/LeetCode/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 ## Brainteaser
@@ -334,6 +338,7 @@ leetcode problems i have solved
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/kritik0007/LeetCode/tree/main/0062-unique-paths/) | Medium |
+| [1735-count-ways-to-make-array-with-product](https://github.com/kritik0007/LeetCode/tree/main/1735-count-ways-to-make-array-with-product/) | Hard |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
