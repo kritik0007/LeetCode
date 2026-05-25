@@ -116,6 +116,7 @@ leetcode problems i have solved
 | [0217-contains-duplicate](https://github.com/kritik0007/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/kritik0007/LeetCode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0334-increasing-triplet-subsequence](https://github.com/kritik0007/LeetCode/tree/main/0334-increasing-triplet-subsequence/) | Medium |
+| [0704-binary-search](https://github.com/kritik0007/LeetCode/tree/main/0704-binary-search/) | Easy |
 | [0735-asteroid-collision](https://github.com/kritik0007/LeetCode/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/kritik0007/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/kritik0007/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
@@ -174,6 +175,7 @@ leetcode problems i have solved
 | [0033-search-in-rotated-sorted-array](https://github.com/kritik0007/LeetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0069-sqrtx](https://github.com/kritik0007/LeetCode/tree/main/0069-sqrtx/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/kritik0007/LeetCode/tree/main/0374-guess-number-higher-or-lower/) | Easy |
+| [0704-binary-search](https://github.com/kritik0007/LeetCode/tree/main/0704-binary-search/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/kritik0007/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Interactive
 | Problem Name | Difficulty |
