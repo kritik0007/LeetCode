@@ -16,6 +16,7 @@ leetcode problems i have solved
 | [0151-reverse-words-in-a-string](https://github.com/kritik0007/LeetCode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0168-excel-sheet-column-title](https://github.com/kritik0007/LeetCode/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0273-integer-to-english-words](https://github.com/kritik0007/LeetCode/tree/main/0273-integer-to-english-words/) | Hard |
+| [0344-reverse-string](https://github.com/kritik0007/LeetCode/tree/main/0344-reverse-string/) | Easy |
 | [0383-ransom-note](https://github.com/kritik0007/LeetCode/tree/main/0383-ransom-note/) | Easy |
 | [0394-decode-string](https://github.com/kritik0007/LeetCode/tree/main/0394-decode-string/) | Medium |
 | [0399-evaluate-division](https://github.com/kritik0007/LeetCode/tree/main/0399-evaluate-division/) | Medium |
@@ -171,6 +172,7 @@ leetcode problems i have solved
 | [0189-rotate-array](https://github.com/kritik0007/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/kritik0007/LeetCode/tree/main/0202-happy-number/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/kritik0007/LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0344-reverse-string](https://github.com/kritik0007/LeetCode/tree/main/0344-reverse-string/) | Easy |
 | [0443-string-compression](https://github.com/kritik0007/LeetCode/tree/main/0443-string-compression/) | Medium |
 | [1861-rotating-the-box](https://github.com/kritik0007/LeetCode/tree/main/1861-rotating-the-box/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/kritik0007/LeetCode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
