@@ -122,6 +122,7 @@ leetcode problems i have solved
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kritik0007/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/kritik0007/LeetCode/tree/main/0136-single-number/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kritik0007/LeetCode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/kritik0007/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/kritik0007/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0204-count-primes](https://github.com/kritik0007/LeetCode/tree/main/0204-count-primes/) | Medium |
 | [0217-contains-duplicate](https://github.com/kritik0007/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
@@ -182,6 +183,7 @@ leetcode problems i have solved
 | [0061-rotate-list](https://github.com/kritik0007/LeetCode/tree/main/0061-rotate-list/) | Medium |
 | [0125-valid-palindrome](https://github.com/kritik0007/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/kritik0007/LeetCode/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/kritik0007/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/kritik0007/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/kritik0007/LeetCode/tree/main/0202-happy-number/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/kritik0007/LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
@@ -196,6 +198,7 @@ leetcode problems i have solved
 | [0004-median-of-two-sorted-arrays](https://github.com/kritik0007/LeetCode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0033-search-in-rotated-sorted-array](https://github.com/kritik0007/LeetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0069-sqrtx](https://github.com/kritik0007/LeetCode/tree/main/0069-sqrtx/) | Easy |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/kritik0007/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0268-missing-number](https://github.com/kritik0007/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/kritik0007/LeetCode/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [0704-binary-search](https://github.com/kritik0007/LeetCode/tree/main/0704-binary-search/) | Easy |
