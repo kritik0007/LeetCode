@@ -105,6 +105,7 @@ leetcode problems i have solved
 | [0067-add-binary](https://github.com/kritik0007/LeetCode/tree/main/0067-add-binary/) | Easy |
 | [0089-gray-code](https://github.com/kritik0007/LeetCode/tree/main/0089-gray-code/) | Medium |
 | [0136-single-number](https://github.com/kritik0007/LeetCode/tree/main/0136-single-number/) | Easy |
+| [0268-missing-number](https://github.com/kritik0007/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0338-counting-bits](https://github.com/kritik0007/LeetCode/tree/main/0338-counting-bits/) | Easy |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/kritik0007/LeetCode/tree/main/1318-minimum-flips-to-make-a-or-b-equal-to-c/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/kritik0007/LeetCode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
@@ -125,6 +126,7 @@ leetcode problems i have solved
 | [0204-count-primes](https://github.com/kritik0007/LeetCode/tree/main/0204-count-primes/) | Medium |
 | [0217-contains-duplicate](https://github.com/kritik0007/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/kritik0007/LeetCode/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0268-missing-number](https://github.com/kritik0007/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0334-increasing-triplet-subsequence](https://github.com/kritik0007/LeetCode/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0399-evaluate-division](https://github.com/kritik0007/LeetCode/tree/main/0399-evaluate-division/) | Medium |
 | [0414-third-maximum-number](https://github.com/kritik0007/LeetCode/tree/main/0414-third-maximum-number/) | Easy |
@@ -192,6 +194,7 @@ leetcode problems i have solved
 | [0004-median-of-two-sorted-arrays](https://github.com/kritik0007/LeetCode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0033-search-in-rotated-sorted-array](https://github.com/kritik0007/LeetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0069-sqrtx](https://github.com/kritik0007/LeetCode/tree/main/0069-sqrtx/) | Easy |
+| [0268-missing-number](https://github.com/kritik0007/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/kritik0007/LeetCode/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [0704-binary-search](https://github.com/kritik0007/LeetCode/tree/main/0704-binary-search/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/kritik0007/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
@@ -283,6 +286,7 @@ leetcode problems i have solved
 | [0202-happy-number](https://github.com/kritik0007/LeetCode/tree/main/0202-happy-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/kritik0007/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/kritik0007/LeetCode/tree/main/0242-valid-anagram/) | Easy |
+| [0268-missing-number](https://github.com/kritik0007/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0383-ransom-note](https://github.com/kritik0007/LeetCode/tree/main/0383-ransom-note/) | Easy |
 | [1657-determine-if-two-strings-are-close](https://github.com/kritik0007/LeetCode/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [2352-equal-row-and-column-pairs](https://github.com/kritik0007/LeetCode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
@@ -296,6 +300,7 @@ leetcode problems i have solved
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/kritik0007/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/kritik0007/LeetCode/tree/main/0242-valid-anagram/) | Easy |
+| [0268-missing-number](https://github.com/kritik0007/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0414-third-maximum-number](https://github.com/kritik0007/LeetCode/tree/main/0414-third-maximum-number/) | Easy |
 | [1340-jump-game-v](https://github.com/kritik0007/LeetCode/tree/main/1340-jump-game-v/) | Hard |
 | [1657-determine-if-two-strings-are-close](https://github.com/kritik0007/LeetCode/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
@@ -339,6 +344,7 @@ leetcode problems i have solved
 | [0204-count-primes](https://github.com/kritik0007/LeetCode/tree/main/0204-count-primes/) | Medium |
 | [0223-rectangle-area](https://github.com/kritik0007/LeetCode/tree/main/0223-rectangle-area/) | Medium |
 | [0258-add-digits](https://github.com/kritik0007/LeetCode/tree/main/0258-add-digits/) | Easy |
+| [0268-missing-number](https://github.com/kritik0007/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0273-integer-to-english-words](https://github.com/kritik0007/LeetCode/tree/main/0273-integer-to-english-words/) | Hard |
 | [0292-nim-game](https://github.com/kritik0007/LeetCode/tree/main/0292-nim-game/) | Easy |
 | [0326-power-of-three](https://github.com/kritik0007/LeetCode/tree/main/0326-power-of-three/) | Easy |
