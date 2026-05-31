@@ -1,11 +1,8 @@
 class Solution:
     def missingNumber(self, nums: List[int]) -> int:
-        n= len(nums)
-        sum = 0
-        s = 0
-        
-        sum = (n*(n+1))//2
-        for i in nums:
-            s = s+i
-        t = sum - s
-        return t
+      
+        seen = set(nums)          # store array in hashset
+
+        for i in range(len(nums) + 1):   # 0 to n
+            if i not in seen:             # check if missing
+             return i
