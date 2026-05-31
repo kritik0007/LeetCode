@@ -127,6 +127,7 @@ leetcode problems i have solved
 | [0217-contains-duplicate](https://github.com/kritik0007/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/kritik0007/LeetCode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0268-missing-number](https://github.com/kritik0007/LeetCode/tree/main/0268-missing-number/) | Easy |
+| [0283-move-zeroes](https://github.com/kritik0007/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0334-increasing-triplet-subsequence](https://github.com/kritik0007/LeetCode/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0399-evaluate-division](https://github.com/kritik0007/LeetCode/tree/main/0399-evaluate-division/) | Medium |
 | [0414-third-maximum-number](https://github.com/kritik0007/LeetCode/tree/main/0414-third-maximum-number/) | Easy |
@@ -184,6 +185,7 @@ leetcode problems i have solved
 | [0189-rotate-array](https://github.com/kritik0007/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/kritik0007/LeetCode/tree/main/0202-happy-number/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/kritik0007/LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0283-move-zeroes](https://github.com/kritik0007/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/kritik0007/LeetCode/tree/main/0344-reverse-string/) | Easy |
 | [0443-string-compression](https://github.com/kritik0007/LeetCode/tree/main/0443-string-compression/) | Medium |
 | [1861-rotating-the-box](https://github.com/kritik0007/LeetCode/tree/main/1861-rotating-the-box/) | Medium |
