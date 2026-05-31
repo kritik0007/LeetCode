@@ -203,6 +203,7 @@ leetcode problems i have solved
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/kritik0007/LeetCode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kritik0007/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0199-binary-tree-right-side-view](https://github.com/kritik0007/LeetCode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/kritik0007/LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/kritik0007/LeetCode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kritik0007/LeetCode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
@@ -217,6 +218,7 @@ leetcode problems i have solved
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/kritik0007/LeetCode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kritik0007/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0199-binary-tree-right-side-view](https://github.com/kritik0007/LeetCode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0210-course-schedule-ii](https://github.com/kritik0007/LeetCode/tree/main/0210-course-schedule-ii/) | Medium |
 | [0226-invert-binary-tree](https://github.com/kritik0007/LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/kritik0007/LeetCode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
@@ -230,6 +232,7 @@ leetcode problems i have solved
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kritik0007/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0199-binary-tree-right-side-view](https://github.com/kritik0007/LeetCode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0210-course-schedule-ii](https://github.com/kritik0007/LeetCode/tree/main/0210-course-schedule-ii/) | Medium |
 | [0226-invert-binary-tree](https://github.com/kritik0007/LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0399-evaluate-division](https://github.com/kritik0007/LeetCode/tree/main/0399-evaluate-division/) | Medium |
@@ -240,6 +243,7 @@ leetcode problems i have solved
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/kritik0007/LeetCode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kritik0007/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0199-binary-tree-right-side-view](https://github.com/kritik0007/LeetCode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/kritik0007/LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/kritik0007/LeetCode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kritik0007/LeetCode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
