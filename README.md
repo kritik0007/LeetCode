@@ -16,6 +16,7 @@ leetcode problems i have solved
 | [0125-valid-palindrome](https://github.com/kritik0007/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/kritik0007/LeetCode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0168-excel-sheet-column-title](https://github.com/kritik0007/LeetCode/tree/main/0168-excel-sheet-column-title/) | Easy |
+| [0242-valid-anagram](https://github.com/kritik0007/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0273-integer-to-english-words](https://github.com/kritik0007/LeetCode/tree/main/0273-integer-to-english-words/) | Hard |
 | [0344-reverse-string](https://github.com/kritik0007/LeetCode/tree/main/0344-reverse-string/) | Easy |
 | [0383-ransom-note](https://github.com/kritik0007/LeetCode/tree/main/0383-ransom-note/) | Easy |
@@ -281,6 +282,7 @@ leetcode problems i have solved
 | [0013-roman-to-integer](https://github.com/kritik0007/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
 | [0202-happy-number](https://github.com/kritik0007/LeetCode/tree/main/0202-happy-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/kritik0007/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/kritik0007/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0383-ransom-note](https://github.com/kritik0007/LeetCode/tree/main/0383-ransom-note/) | Easy |
 | [1657-determine-if-two-strings-are-close](https://github.com/kritik0007/LeetCode/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [2352-equal-row-and-column-pairs](https://github.com/kritik0007/LeetCode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
@@ -293,6 +295,7 @@ leetcode problems i have solved
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/kritik0007/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/kritik0007/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0414-third-maximum-number](https://github.com/kritik0007/LeetCode/tree/main/0414-third-maximum-number/) | Easy |
 | [1340-jump-game-v](https://github.com/kritik0007/LeetCode/tree/main/1340-jump-game-v/) | Hard |
 | [1657-determine-if-two-strings-are-close](https://github.com/kritik0007/LeetCode/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
