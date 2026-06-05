@@ -129,6 +129,7 @@ leetcode problems i have solved
 | [0136-single-number](https://github.com/kritik0007/LeetCode/tree/main/0136-single-number/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kritik0007/LeetCode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kritik0007/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0169-majority-element](https://github.com/kritik0007/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/kritik0007/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0204-count-primes](https://github.com/kritik0007/LeetCode/tree/main/0204-count-primes/) | Medium |
 | [0217-contains-duplicate](https://github.com/kritik0007/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
@@ -305,6 +306,7 @@ leetcode problems i have solved
 | [0001-two-sum](https://github.com/kritik0007/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0012-integer-to-roman](https://github.com/kritik0007/LeetCode/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/kritik0007/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
+| [0169-majority-element](https://github.com/kritik0007/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/kritik0007/LeetCode/tree/main/0202-happy-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/kritik0007/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/kritik0007/LeetCode/tree/main/0242-valid-anagram/) | Easy |
@@ -320,6 +322,7 @@ leetcode problems i have solved
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/kritik0007/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/kritik0007/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/kritik0007/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/kritik0007/LeetCode/tree/main/0268-missing-number/) | Easy |
@@ -333,6 +336,7 @@ leetcode problems i have solved
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/kritik0007/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0383-ransom-note](https://github.com/kritik0007/LeetCode/tree/main/0383-ransom-note/) | Easy |
 | [1657-determine-if-two-strings-are-close](https://github.com/kritik0007/LeetCode/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 ## Matrix
@@ -437,6 +441,7 @@ leetcode problems i have solved
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/kritik0007/LeetCode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0053-maximum-subarray](https://github.com/kritik0007/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
+| [0169-majority-element](https://github.com/kritik0007/LeetCode/tree/main/0169-majority-element/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
