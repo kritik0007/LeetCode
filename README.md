@@ -157,6 +157,7 @@ leetcode problems i have solved
 | [2352-equal-row-and-column-pairs](https://github.com/kritik0007/LeetCode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/kritik0007/LeetCode/tree/main/2470-number-of-subarrays-with-lcm-equal-to-k/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/kritik0007/LeetCode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
+| [2574-left-and-right-sum-differences](https://github.com/kritik0007/LeetCode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/kritik0007/LeetCode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/kritik0007/LeetCode/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/kritik0007/LeetCode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
@@ -301,6 +302,7 @@ leetcode problems i have solved
 | [0238-product-of-array-except-self](https://github.com/kritik0007/LeetCode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/kritik0007/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1871-jump-game-vii](https://github.com/kritik0007/LeetCode/tree/main/1871-jump-game-vii/) | Medium |
+| [2574-left-and-right-sum-differences](https://github.com/kritik0007/LeetCode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3225-maximum-score-from-grid-operations](https://github.com/kritik0007/LeetCode/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
