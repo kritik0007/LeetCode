@@ -127,6 +127,7 @@ leetcode problems i have solved
 | [0048-rotate-image](https://github.com/kritik0007/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/kritik0007/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0066-plus-one](https://github.com/kritik0007/LeetCode/tree/main/0066-plus-one/) | Easy |
+| [0088-merge-sorted-array](https://github.com/kritik0007/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0118-pascals-triangle](https://github.com/kritik0007/LeetCode/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kritik0007/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/kritik0007/LeetCode/tree/main/0136-single-number/) | Easy |
@@ -205,6 +206,7 @@ leetcode problems i have solved
 | [0027-remove-element](https://github.com/kritik0007/LeetCode/tree/main/0027-remove-element/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kritik0007/LeetCode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0061-rotate-list](https://github.com/kritik0007/LeetCode/tree/main/0061-rotate-list/) | Medium |
+| [0088-merge-sorted-array](https://github.com/kritik0007/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/kritik0007/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/kritik0007/LeetCode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kritik0007/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -337,6 +339,7 @@ leetcode problems i have solved
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/kritik0007/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/kritik0007/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/kritik0007/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/kritik0007/LeetCode/tree/main/0242-valid-anagram/) | Easy |
