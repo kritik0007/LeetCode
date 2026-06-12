@@ -261,6 +261,7 @@ leetcode problems i have solved
 | [0450-delete-node-in-a-bst](https://github.com/kritik0007/LeetCode/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/kritik0007/LeetCode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0872-leaf-similar-trees](https://github.com/kritik0007/LeetCode/tree/main/0872-leaf-similar-trees/) | Easy |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/kritik0007/LeetCode/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/kritik0007/LeetCode/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/kritik0007/LeetCode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/kritik0007/LeetCode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
@@ -279,6 +280,7 @@ leetcode problems i have solved
 | [0399-evaluate-division](https://github.com/kritik0007/LeetCode/tree/main/0399-evaluate-division/) | Medium |
 | [0437-path-sum-iii](https://github.com/kritik0007/LeetCode/tree/main/0437-path-sum-iii/) | Medium |
 | [0872-leaf-similar-trees](https://github.com/kritik0007/LeetCode/tree/main/0872-leaf-similar-trees/) | Easy |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/kritik0007/LeetCode/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/kritik0007/LeetCode/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/kritik0007/LeetCode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/kritik0007/LeetCode/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
@@ -291,6 +293,7 @@ leetcode problems i have solved
 | [0210-course-schedule-ii](https://github.com/kritik0007/LeetCode/tree/main/0210-course-schedule-ii/) | Medium |
 | [0226-invert-binary-tree](https://github.com/kritik0007/LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0399-evaluate-division](https://github.com/kritik0007/LeetCode/tree/main/0399-evaluate-division/) | Medium |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/kritik0007/LeetCode/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/kritik0007/LeetCode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/kritik0007/LeetCode/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 ## Binary Tree
@@ -306,6 +309,7 @@ leetcode problems i have solved
 | [0450-delete-node-in-a-bst](https://github.com/kritik0007/LeetCode/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/kritik0007/LeetCode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0872-leaf-similar-trees](https://github.com/kritik0007/LeetCode/tree/main/0872-leaf-similar-trees/) | Easy |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/kritik0007/LeetCode/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/kritik0007/LeetCode/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/kritik0007/LeetCode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/kritik0007/LeetCode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
