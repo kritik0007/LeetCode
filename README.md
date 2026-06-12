@@ -161,6 +161,7 @@ leetcode problems i have solved
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/kritik0007/LeetCode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1861-rotating-the-box](https://github.com/kritik0007/LeetCode/tree/main/1861-rotating-the-box/) | Medium |
 | [1914-cyclically-rotating-a-grid](https://github.com/kritik0007/LeetCode/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/kritik0007/LeetCode/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 | [2126-destroying-asteroids](https://github.com/kritik0007/LeetCode/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/kritik0007/LeetCode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/kritik0007/LeetCode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
@@ -301,6 +302,7 @@ leetcode problems i have solved
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/kritik0007/LeetCode/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/kritik0007/LeetCode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/kritik0007/LeetCode/tree/main/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/kritik0007/LeetCode/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/kritik0007/LeetCode/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -387,6 +389,7 @@ leetcode problems i have solved
 | [0048-rotate-image](https://github.com/kritik0007/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [1861-rotating-the-box](https://github.com/kritik0007/LeetCode/tree/main/1861-rotating-the-box/) | Medium |
 | [1914-cyclically-rotating-a-grid](https://github.com/kritik0007/LeetCode/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/kritik0007/LeetCode/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 | [2352-equal-row-and-column-pairs](https://github.com/kritik0007/LeetCode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [3225-maximum-score-from-grid-operations](https://github.com/kritik0007/LeetCode/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3742-maximum-path-score-in-a-grid](https://github.com/kritik0007/LeetCode/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
