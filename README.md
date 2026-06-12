@@ -170,6 +170,7 @@ leetcode problems i have solved
 | [2196-create-binary-tree-from-descriptions](https://github.com/kritik0007/LeetCode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2352-equal-row-and-column-pairs](https://github.com/kritik0007/LeetCode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/kritik0007/LeetCode/tree/main/2470-number-of-subarrays-with-lcm-equal-to-k/) | Medium |
+| [2542-maximum-subsequence-score](https://github.com/kritik0007/LeetCode/tree/main/2542-maximum-subsequence-score/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/kritik0007/LeetCode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/kritik0007/LeetCode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/kritik0007/LeetCode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
@@ -208,6 +209,7 @@ leetcode problems i have solved
 | [0649-dota2-senate](https://github.com/kritik0007/LeetCode/tree/main/0649-dota2-senate/) | Medium |
 | [2126-destroying-asteroids](https://github.com/kritik0007/LeetCode/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/kritik0007/LeetCode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [2542-maximum-subsequence-score](https://github.com/kritik0007/LeetCode/tree/main/2542-maximum-subsequence-score/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/kritik0007/LeetCode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/kritik0007/LeetCode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/kritik0007/LeetCode/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
@@ -381,6 +383,7 @@ leetcode problems i have solved
 | [1657-determine-if-two-strings-are-close](https://github.com/kritik0007/LeetCode/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [2126-destroying-asteroids](https://github.com/kritik0007/LeetCode/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/kritik0007/LeetCode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [2542-maximum-subsequence-score](https://github.com/kritik0007/LeetCode/tree/main/2542-maximum-subsequence-score/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/kritik0007/LeetCode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/kritik0007/LeetCode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Counting
@@ -533,6 +536,7 @@ leetcode problems i have solved
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/kritik0007/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [2336-smallest-number-in-infinite-set](https://github.com/kritik0007/LeetCode/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
+| [2542-maximum-subsequence-score](https://github.com/kritik0007/LeetCode/tree/main/2542-maximum-subsequence-score/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/kritik0007/LeetCode/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 ## Quickselect
 | Problem Name | Difficulty |
