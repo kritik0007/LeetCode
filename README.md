@@ -32,6 +32,7 @@ leetcode problems i have solved
 | [3093-longest-common-suffix-queries](https://github.com/kritik0007/LeetCode/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3120-count-the-number-of-special-characters-i](https://github.com/kritik0007/LeetCode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/kritik0007/LeetCode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
+| [3838-weighted-word-mapping](https://github.com/kritik0007/LeetCode/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -54,6 +55,7 @@ leetcode problems i have solved
 | [2352-equal-row-and-column-pairs](https://github.com/kritik0007/LeetCode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/kritik0007/LeetCode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/kritik0007/LeetCode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
+| [3838-weighted-word-mapping](https://github.com/kritik0007/LeetCode/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -187,6 +189,7 @@ leetcode problems i have solved
 | [3689-maximum-total-subarray-value-i](https://github.com/kritik0007/LeetCode/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/kritik0007/LeetCode/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 | [3742-maximum-path-score-in-a-grid](https://github.com/kritik0007/LeetCode/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
+| [3838-weighted-word-mapping](https://github.com/kritik0007/LeetCode/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
