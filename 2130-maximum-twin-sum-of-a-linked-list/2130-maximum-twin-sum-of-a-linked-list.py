@@ -1,23 +1,26 @@
+from collections import deque
+
+
+# Definition for singly-linked list.
+# class ListNode:
+#     def __init__(self, val=0, next=None):
+#         self.val = val
+#         self.next = next
 class Solution:
-    def pairSum(self, head):
-        slow = head
-        fast = head
-        maxVal = 0
+    def pairSum(self, head: Optional[ListNode]) -> int:
+        container = deque()
 
-        while fast and fast.next:
-            slow = slow.next
-            fast = fast.next.next
+        iterNode = head
 
-        nextNode, prev = None, None
-        while slow:
-            nextNode = slow.next
-            slow.next = prev
-            prev = slow
-            slow = nextNode
+        while iterNode is not None:
+            container.append(iterNode.val)
+            iterNode = iterNode.next
 
-        while prev:
-            maxVal = max(maxVal, head.val + prev.val)
-            prev = prev.next
-            head = head.next
+        result = 0
 
-        return maxVal
+        while container:
+            front = container.popleft()
+            back = container.pop()
+            result = max(result, front + back)
+
+        return result
