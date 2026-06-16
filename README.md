@@ -32,6 +32,7 @@ leetcode problems i have solved
 | [3093-longest-common-suffix-queries](https://github.com/kritik0007/LeetCode/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3120-count-the-number-of-special-characters-i](https://github.com/kritik0007/LeetCode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/kritik0007/LeetCode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
+| [3612-process-string-with-special-operations-i](https://github.com/kritik0007/LeetCode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/kritik0007/LeetCode/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
@@ -56,6 +57,7 @@ leetcode problems i have solved
 | [2390-removing-stars-from-a-string](https://github.com/kritik0007/LeetCode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2462-total-cost-to-hire-k-workers](https://github.com/kritik0007/LeetCode/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/kritik0007/LeetCode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
+| [3612-process-string-with-special-operations-i](https://github.com/kritik0007/LeetCode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/kritik0007/LeetCode/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
