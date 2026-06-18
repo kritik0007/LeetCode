@@ -182,6 +182,7 @@ leetcode problems i have solved
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/kritik0007/LeetCode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/kritik0007/LeetCode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/kritik0007/LeetCode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/kritik0007/LeetCode/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [2352-equal-row-and-column-pairs](https://github.com/kritik0007/LeetCode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [2462-total-cost-to-hire-k-workers](https://github.com/kritik0007/LeetCode/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/kritik0007/LeetCode/tree/main/2470-number-of-subarrays-with-lcm-equal-to-k/) | Medium |
@@ -252,6 +253,7 @@ leetcode problems i have solved
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/kritik0007/LeetCode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/kritik0007/LeetCode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/kritik0007/LeetCode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/kritik0007/LeetCode/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [2462-total-cost-to-hire-k-workers](https://github.com/kritik0007/LeetCode/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/kritik0007/LeetCode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/kritik0007/LeetCode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
@@ -266,6 +268,7 @@ leetcode problems i have solved
 | [0374-guess-number-higher-or-lower](https://github.com/kritik0007/LeetCode/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [0704-binary-search](https://github.com/kritik0007/LeetCode/tree/main/0704-binary-search/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/kritik0007/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/kritik0007/LeetCode/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/kritik0007/LeetCode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/kritik0007/LeetCode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Interactive
@@ -402,6 +405,7 @@ leetcode problems i have solved
 | [1657-determine-if-two-strings-are-close](https://github.com/kritik0007/LeetCode/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [2126-destroying-asteroids](https://github.com/kritik0007/LeetCode/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/kritik0007/LeetCode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/kritik0007/LeetCode/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [2542-maximum-subsequence-score](https://github.com/kritik0007/LeetCode/tree/main/2542-maximum-subsequence-score/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/kritik0007/LeetCode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/kritik0007/LeetCode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
