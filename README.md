@@ -176,6 +176,7 @@ leetcode problems i have solved
 | [1732-find-the-highest-altitude](https://github.com/kritik0007/LeetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1735-count-ways-to-make-array-with-product](https://github.com/kritik0007/LeetCode/tree/main/1735-count-ways-to-make-array-with-product/) | Hard |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/kritik0007/LeetCode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [1840-maximum-building-height](https://github.com/kritik0007/LeetCode/tree/main/1840-maximum-building-height/) | Hard |
 | [1861-rotating-the-box](https://github.com/kritik0007/LeetCode/tree/main/1861-rotating-the-box/) | Medium |
 | [1914-cyclically-rotating-a-grid](https://github.com/kritik0007/LeetCode/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/kritik0007/LeetCode/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
@@ -405,6 +406,7 @@ leetcode problems i have solved
 | [0414-third-maximum-number](https://github.com/kritik0007/LeetCode/tree/main/0414-third-maximum-number/) | Easy |
 | [1340-jump-game-v](https://github.com/kritik0007/LeetCode/tree/main/1340-jump-game-v/) | Hard |
 | [1657-determine-if-two-strings-are-close](https://github.com/kritik0007/LeetCode/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
+| [1840-maximum-building-height](https://github.com/kritik0007/LeetCode/tree/main/1840-maximum-building-height/) | Hard |
 | [2126-destroying-asteroids](https://github.com/kritik0007/LeetCode/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/kritik0007/LeetCode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/kritik0007/LeetCode/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
@@ -465,6 +467,7 @@ leetcode problems i have solved
 | [1250-check-if-it-is-a-good-array](https://github.com/kritik0007/LeetCode/tree/main/1250-check-if-it-is-a-good-array/) | Hard |
 | [1344-angle-between-hands-of-a-clock](https://github.com/kritik0007/LeetCode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1735-count-ways-to-make-array-with-product](https://github.com/kritik0007/LeetCode/tree/main/1735-count-ways-to-make-array-with-product/) | Hard |
+| [1840-maximum-building-height](https://github.com/kritik0007/LeetCode/tree/main/1840-maximum-building-height/) | Hard |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/kritik0007/LeetCode/tree/main/2470-number-of-subarrays-with-lcm-equal-to-k/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/kritik0007/LeetCode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/kritik0007/LeetCode/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
