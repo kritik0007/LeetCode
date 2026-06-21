@@ -179,6 +179,7 @@ leetcode problems i have solved
 | [1732-find-the-highest-altitude](https://github.com/kritik0007/LeetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1735-count-ways-to-make-array-with-product](https://github.com/kritik0007/LeetCode/tree/main/1735-count-ways-to-make-array-with-product/) | Hard |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/kritik0007/LeetCode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [1833-maximum-ice-cream-bars](https://github.com/kritik0007/LeetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1840-maximum-building-height](https://github.com/kritik0007/LeetCode/tree/main/1840-maximum-building-height/) | Hard |
 | [1861-rotating-the-box](https://github.com/kritik0007/LeetCode/tree/main/1861-rotating-the-box/) | Medium |
 | [1914-cyclically-rotating-a-grid](https://github.com/kritik0007/LeetCode/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
@@ -229,6 +230,7 @@ leetcode problems i have solved
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kritik0007/LeetCode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0334-increasing-triplet-subsequence](https://github.com/kritik0007/LeetCode/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0649-dota2-senate](https://github.com/kritik0007/LeetCode/tree/main/0649-dota2-senate/) | Medium |
+| [1833-maximum-ice-cream-bars](https://github.com/kritik0007/LeetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2126-destroying-asteroids](https://github.com/kritik0007/LeetCode/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/kritik0007/LeetCode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2542-maximum-subsequence-score](https://github.com/kritik0007/LeetCode/tree/main/2542-maximum-subsequence-score/) | Medium |
@@ -409,6 +411,7 @@ leetcode problems i have solved
 | [0414-third-maximum-number](https://github.com/kritik0007/LeetCode/tree/main/0414-third-maximum-number/) | Easy |
 | [1340-jump-game-v](https://github.com/kritik0007/LeetCode/tree/main/1340-jump-game-v/) | Hard |
 | [1657-determine-if-two-strings-are-close](https://github.com/kritik0007/LeetCode/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
+| [1833-maximum-ice-cream-bars](https://github.com/kritik0007/LeetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1840-maximum-building-height](https://github.com/kritik0007/LeetCode/tree/main/1840-maximum-building-height/) | Hard |
 | [2126-destroying-asteroids](https://github.com/kritik0007/LeetCode/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/kritik0007/LeetCode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
@@ -582,4 +585,8 @@ leetcode problems i have solved
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2336-smallest-number-in-infinite-set](https://github.com/kritik0007/LeetCode/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/kritik0007/LeetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 <!---LeetCode Topics End-->
