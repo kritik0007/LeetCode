@@ -110,6 +110,7 @@ leetcode problems i have solved
 | [0673-number-of-longest-increasing-subsequence](https://github.com/kritik0007/LeetCode/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/kritik0007/LeetCode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0790-domino-and-tromino-tiling](https://github.com/kritik0007/LeetCode/tree/main/0790-domino-and-tromino-tiling/) | Medium |
+| [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/kritik0007/LeetCode/tree/main/0801-minimum-swaps-to-make-sequences-increasing/) | Hard |
 | [0818-race-car](https://github.com/kritik0007/LeetCode/tree/main/0818-race-car/) | Hard |
 | [1137-n-th-tribonacci-number](https://github.com/kritik0007/LeetCode/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1340-jump-game-v](https://github.com/kritik0007/LeetCode/tree/main/1340-jump-game-v/) | Hard |
@@ -177,6 +178,7 @@ leetcode problems i have solved
 | [0735-asteroid-collision](https://github.com/kritik0007/LeetCode/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/kritik0007/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/kritik0007/LeetCode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
+| [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/kritik0007/LeetCode/tree/main/0801-minimum-swaps-to-make-sequences-increasing/) | Hard |
 | [0994-rotting-oranges](https://github.com/kritik0007/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/kritik0007/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1250-check-if-it-is-a-good-array](https://github.com/kritik0007/LeetCode/tree/main/1250-check-if-it-is-a-good-array/) | Hard |
