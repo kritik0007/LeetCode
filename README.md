@@ -108,6 +108,7 @@ leetcode problems i have solved
 | [0509-fibonacci-number](https://github.com/kritik0007/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 | [0542-01-matrix](https://github.com/kritik0007/LeetCode/tree/main/0542-01-matrix/) | Medium |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/kritik0007/LeetCode/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/kritik0007/LeetCode/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/kritik0007/LeetCode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0790-domino-and-tromino-tiling](https://github.com/kritik0007/LeetCode/tree/main/0790-domino-and-tromino-tiling/) | Medium |
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/kritik0007/LeetCode/tree/main/0801-minimum-swaps-to-make-sequences-increasing/) | Hard |
@@ -175,6 +176,7 @@ leetcode problems i have solved
 | [0542-01-matrix](https://github.com/kritik0007/LeetCode/tree/main/0542-01-matrix/) | Medium |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/kritik0007/LeetCode/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [0704-binary-search](https://github.com/kritik0007/LeetCode/tree/main/0704-binary-search/) | Easy |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/kritik0007/LeetCode/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
 | [0735-asteroid-collision](https://github.com/kritik0007/LeetCode/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/kritik0007/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/kritik0007/LeetCode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
@@ -282,6 +284,7 @@ leetcode problems i have solved
 | [0268-missing-number](https://github.com/kritik0007/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/kritik0007/LeetCode/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [0704-binary-search](https://github.com/kritik0007/LeetCode/tree/main/0704-binary-search/) | Easy |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/kritik0007/LeetCode/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/kritik0007/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/kritik0007/LeetCode/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/kritik0007/LeetCode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
@@ -374,6 +377,7 @@ leetcode problems i have solved
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/kritik0007/LeetCode/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/kritik0007/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/kritik0007/LeetCode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1871-jump-game-vii](https://github.com/kritik0007/LeetCode/tree/main/1871-jump-game-vii/) | Medium |
@@ -606,4 +610,12 @@ leetcode problems i have solved
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/kritik0007/LeetCode/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
+## Rolling Hash
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/kritik0007/LeetCode/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/kritik0007/LeetCode/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
 <!---LeetCode Topics End-->
