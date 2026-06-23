@@ -1,15 +1,12 @@
 class Solution:
-    def rob(self, nums):
+    def rob(self, nums: List[int]) -> int:
+        
+        prev2 = 0
+        prev1 = 0
 
-        n=len(nums)
+        for num in nums:
+            curr = max(prev2 + num, prev1)  # rob or skip?
+            prev2 = prev1                    # shift forward
+            prev1 = curr                     # shift forward
 
-        dp=[0]*(n+2)
-
-        for i in range(n-1,-1,-1):
-
-            take=nums[i]+dp[i+2]
-            skip=dp[i+1]
-
-            dp[i]=max(take,skip)
-
-        return dp[0]
+        return prev1    
