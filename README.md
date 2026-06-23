@@ -113,6 +113,7 @@ leetcode problems i have solved
 | [0790-domino-and-tromino-tiling](https://github.com/kritik0007/LeetCode/tree/main/0790-domino-and-tromino-tiling/) | Medium |
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/kritik0007/LeetCode/tree/main/0801-minimum-swaps-to-make-sequences-increasing/) | Hard |
 | [0818-race-car](https://github.com/kritik0007/LeetCode/tree/main/0818-race-car/) | Hard |
+| [0887-super-egg-drop](https://github.com/kritik0007/LeetCode/tree/main/0887-super-egg-drop/) | Hard |
 | [1137-n-th-tribonacci-number](https://github.com/kritik0007/LeetCode/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1340-jump-game-v](https://github.com/kritik0007/LeetCode/tree/main/1340-jump-game-v/) | Hard |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/kritik0007/LeetCode/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
@@ -286,6 +287,7 @@ leetcode problems i have solved
 | [0374-guess-number-higher-or-lower](https://github.com/kritik0007/LeetCode/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [0704-binary-search](https://github.com/kritik0007/LeetCode/tree/main/0704-binary-search/) | Easy |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/kritik0007/LeetCode/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
+| [0887-super-egg-drop](https://github.com/kritik0007/LeetCode/tree/main/0887-super-egg-drop/) | Hard |
 | [1004-max-consecutive-ones-iii](https://github.com/kritik0007/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/kritik0007/LeetCode/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/kritik0007/LeetCode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
@@ -487,6 +489,7 @@ leetcode problems i have solved
 | [0326-power-of-three](https://github.com/kritik0007/LeetCode/tree/main/0326-power-of-three/) | Easy |
 | [0343-integer-break](https://github.com/kritik0007/LeetCode/tree/main/0343-integer-break/) | Medium |
 | [0509-fibonacci-number](https://github.com/kritik0007/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
+| [0887-super-egg-drop](https://github.com/kritik0007/LeetCode/tree/main/0887-super-egg-drop/) | Hard |
 | [1137-n-th-tribonacci-number](https://github.com/kritik0007/LeetCode/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1250-check-if-it-is-a-good-array](https://github.com/kritik0007/LeetCode/tree/main/1250-check-if-it-is-a-good-array/) | Hard |
 | [1344-angle-between-hands-of-a-clock](https://github.com/kritik0007/LeetCode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
