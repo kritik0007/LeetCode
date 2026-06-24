@@ -152,6 +152,7 @@ leetcode problems i have solved
 | [0027-remove-element](https://github.com/kritik0007/LeetCode/tree/main/0027-remove-element/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/kritik0007/LeetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0046-permutations](https://github.com/kritik0007/LeetCode/tree/main/0046-permutations/) | Medium |
+| [0047-permutations-ii](https://github.com/kritik0007/LeetCode/tree/main/0047-permutations-ii/) | Medium |
 | [0048-rotate-image](https://github.com/kritik0007/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/kritik0007/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0066-plus-one](https://github.com/kritik0007/LeetCode/tree/main/0066-plus-one/) | Easy |
@@ -426,6 +427,7 @@ leetcode problems i have solved
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0047-permutations-ii](https://github.com/kritik0007/LeetCode/tree/main/0047-permutations-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/kritik0007/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/kritik0007/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/kritik0007/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
@@ -543,6 +545,7 @@ leetcode problems i have solved
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/kritik0007/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0046-permutations](https://github.com/kritik0007/LeetCode/tree/main/0046-permutations/) | Medium |
+| [0047-permutations-ii](https://github.com/kritik0007/LeetCode/tree/main/0047-permutations-ii/) | Medium |
 | [0089-gray-code](https://github.com/kritik0007/LeetCode/tree/main/0089-gray-code/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
