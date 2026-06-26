@@ -230,6 +230,7 @@ leetcode problems i have solved
 | [3689-maximum-total-subarray-value-i](https://github.com/kritik0007/LeetCode/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/kritik0007/LeetCode/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/kritik0007/LeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/kritik0007/LeetCode/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 | [3742-maximum-path-score-in-a-grid](https://github.com/kritik0007/LeetCode/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/kritik0007/LeetCode/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Design
@@ -408,6 +409,7 @@ leetcode problems i have solved
 | [3225-maximum-score-from-grid-operations](https://github.com/kritik0007/LeetCode/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3699-number-of-zigzag-arrays-i](https://github.com/kritik0007/LeetCode/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/kritik0007/LeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/kritik0007/LeetCode/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -433,6 +435,7 @@ leetcode problems i have solved
 | [3121-count-the-number-of-special-characters-ii](https://github.com/kritik0007/LeetCode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/kritik0007/LeetCode/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/kritik0007/LeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/kritik0007/LeetCode/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -582,6 +585,7 @@ leetcode problems i have solved
 | [0169-majority-element](https://github.com/kritik0007/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/kritik0007/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/kritik0007/LeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/kritik0007/LeetCode/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -615,6 +619,7 @@ leetcode problems i have solved
 | [0673-number-of-longest-increasing-subsequence](https://github.com/kritik0007/LeetCode/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/kritik0007/LeetCode/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/kritik0007/LeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/kritik0007/LeetCode/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -651,4 +656,5 @@ leetcode problems i have solved
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/kritik0007/LeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/kritik0007/LeetCode/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 <!---LeetCode Topics End-->
