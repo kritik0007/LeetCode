@@ -30,6 +30,7 @@ leetcode problems i have solved
 | [0443-string-compression](https://github.com/kritik0007/LeetCode/tree/main/0443-string-compression/) | Medium |
 | [0649-dota2-senate](https://github.com/kritik0007/LeetCode/tree/main/0649-dota2-senate/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/kritik0007/LeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [1392-longest-happy-prefix](https://github.com/kritik0007/LeetCode/tree/main/1392-longest-happy-prefix/) | Hard |
 | [1657-determine-if-two-strings-are-close](https://github.com/kritik0007/LeetCode/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [1871-jump-game-vii](https://github.com/kritik0007/LeetCode/tree/main/1871-jump-game-vii/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/kritik0007/LeetCode/tree/main/2390-removing-stars-from-a-string/) | Medium |
@@ -576,6 +577,7 @@ leetcode problems i have solved
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kritik0007/LeetCode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [1392-longest-happy-prefix](https://github.com/kritik0007/LeetCode/tree/main/1392-longest-happy-prefix/) | Hard |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -651,10 +653,12 @@ leetcode problems i have solved
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/kritik0007/LeetCode/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
+| [1392-longest-happy-prefix](https://github.com/kritik0007/LeetCode/tree/main/1392-longest-happy-prefix/) | Hard |
 ## Hash Function
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/kritik0007/LeetCode/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
+| [1392-longest-happy-prefix](https://github.com/kritik0007/LeetCode/tree/main/1392-longest-happy-prefix/) | Hard |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
