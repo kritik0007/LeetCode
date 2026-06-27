@@ -147,6 +147,7 @@ leetcode problems i have solved
 | [0268-missing-number](https://github.com/kritik0007/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0338-counting-bits](https://github.com/kritik0007/LeetCode/tree/main/0338-counting-bits/) | Easy |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/kritik0007/LeetCode/tree/main/1318-minimum-flips-to-make-a-or-b-equal-to-c/) | Medium |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/kritik0007/LeetCode/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/kritik0007/LeetCode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/kritik0007/LeetCode/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 ## Array
@@ -198,6 +199,7 @@ leetcode problems i have solved
 | [1004-max-consecutive-ones-iii](https://github.com/kritik0007/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1250-check-if-it-is-a-good-array](https://github.com/kritik0007/LeetCode/tree/main/1250-check-if-it-is-a-good-array/) | Hard |
 | [1340-jump-game-v](https://github.com/kritik0007/LeetCode/tree/main/1340-jump-game-v/) | Hard |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/kritik0007/LeetCode/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/kritik0007/LeetCode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/kritik0007/LeetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1735-count-ways-to-make-array-with-product](https://github.com/kritik0007/LeetCode/tree/main/1735-count-ways-to-make-array-with-product/) | Hard |
@@ -455,6 +457,7 @@ leetcode problems i have solved
 | [0350-intersection-of-two-arrays-ii](https://github.com/kritik0007/LeetCode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0414-third-maximum-number](https://github.com/kritik0007/LeetCode/tree/main/0414-third-maximum-number/) | Easy |
 | [1340-jump-game-v](https://github.com/kritik0007/LeetCode/tree/main/1340-jump-game-v/) | Hard |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/kritik0007/LeetCode/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [1657-determine-if-two-strings-are-close](https://github.com/kritik0007/LeetCode/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/kritik0007/LeetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1840-maximum-building-height](https://github.com/kritik0007/LeetCode/tree/main/1840-maximum-building-height/) | Hard |
@@ -470,6 +473,7 @@ leetcode problems i have solved
 | [0169-majority-element](https://github.com/kritik0007/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0383-ransom-note](https://github.com/kritik0007/LeetCode/tree/main/0383-ransom-note/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/kritik0007/LeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/kritik0007/LeetCode/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [1657-determine-if-two-strings-are-close](https://github.com/kritik0007/LeetCode/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/kritik0007/LeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Matrix
