@@ -33,6 +33,7 @@ leetcode problems i have solved
 | [1392-longest-happy-prefix](https://github.com/kritik0007/LeetCode/tree/main/1392-longest-happy-prefix/) | Hard |
 | [1657-determine-if-two-strings-are-close](https://github.com/kritik0007/LeetCode/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [1871-jump-game-vii](https://github.com/kritik0007/LeetCode/tree/main/1871-jump-game-vii/) | Medium |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/kritik0007/LeetCode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/kritik0007/LeetCode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/kritik0007/LeetCode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3093-longest-common-suffix-queries](https://github.com/kritik0007/LeetCode/tree/main/3093-longest-common-suffix-queries/) | Hard |
@@ -212,6 +213,7 @@ leetcode problems i have solved
 | [1861-rotating-the-box](https://github.com/kritik0007/LeetCode/tree/main/1861-rotating-the-box/) | Medium |
 | [1914-cyclically-rotating-a-grid](https://github.com/kritik0007/LeetCode/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/kritik0007/LeetCode/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/kritik0007/LeetCode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2126-destroying-asteroids](https://github.com/kritik0007/LeetCode/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/kritik0007/LeetCode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/kritik0007/LeetCode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
