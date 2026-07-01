@@ -30,6 +30,7 @@ leetcode problems i have solved
 | [0443-string-compression](https://github.com/kritik0007/LeetCode/tree/main/0443-string-compression/) | Medium |
 | [0649-dota2-senate](https://github.com/kritik0007/LeetCode/tree/main/0649-dota2-senate/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/kritik0007/LeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/kritik0007/LeetCode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1392-longest-happy-prefix](https://github.com/kritik0007/LeetCode/tree/main/1392-longest-happy-prefix/) | Hard |
 | [1657-determine-if-two-strings-are-close](https://github.com/kritik0007/LeetCode/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [1871-jump-game-vii](https://github.com/kritik0007/LeetCode/tree/main/1871-jump-game-vii/) | Medium |
@@ -411,6 +412,7 @@ leetcode problems i have solved
 | [0003-longest-substring-without-repeating-characters](https://github.com/kritik0007/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/kritik0007/LeetCode/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/kritik0007/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/kritik0007/LeetCode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/kritik0007/LeetCode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1871-jump-game-vii](https://github.com/kritik0007/LeetCode/tree/main/1871-jump-game-vii/) | Medium |
 ## Prefix Sum
@@ -441,6 +443,7 @@ leetcode problems i have solved
 | [0383-ransom-note](https://github.com/kritik0007/LeetCode/tree/main/0383-ransom-note/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kritik0007/LeetCode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/kritik0007/LeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/kritik0007/LeetCode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1657-determine-if-two-strings-are-close](https://github.com/kritik0007/LeetCode/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/kritik0007/LeetCode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2336-smallest-number-in-infinite-set](https://github.com/kritik0007/LeetCode/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
