@@ -233,6 +233,7 @@ leetcode problems i have solved
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/kritik0007/LeetCode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3093-longest-common-suffix-queries](https://github.com/kritik0007/LeetCode/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3225-maximum-score-from-grid-operations](https://github.com/kritik0007/LeetCode/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/kritik0007/LeetCode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/kritik0007/LeetCode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/kritik0007/LeetCode/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/kritik0007/LeetCode/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
@@ -381,6 +382,7 @@ leetcode problems i have solved
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/kritik0007/LeetCode/tree/main/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/kritik0007/LeetCode/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/kritik0007/LeetCode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/kritik0007/LeetCode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/kritik0007/LeetCode/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -501,6 +503,7 @@ leetcode problems i have solved
 | [2352-equal-row-and-column-pairs](https://github.com/kritik0007/LeetCode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/kritik0007/LeetCode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3225-maximum-score-from-grid-operations](https://github.com/kritik0007/LeetCode/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/kritik0007/LeetCode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3742-maximum-path-score-in-a-grid](https://github.com/kritik0007/LeetCode/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -632,10 +635,12 @@ leetcode problems i have solved
 | [0547-number-of-provinces](https://github.com/kritik0007/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
 | [0841-keys-and-rooms](https://github.com/kritik0007/LeetCode/tree/main/0841-keys-and-rooms/) | Medium |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/kritik0007/LeetCode/tree/main/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/kritik0007/LeetCode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Shortest Path
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0399-evaluate-division](https://github.com/kritik0007/LeetCode/tree/main/0399-evaluate-division/) | Medium |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/kritik0007/LeetCode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -655,6 +660,7 @@ leetcode problems i have solved
 | [2462-total-cost-to-hire-k-workers](https://github.com/kritik0007/LeetCode/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
 | [2542-maximum-subsequence-score](https://github.com/kritik0007/LeetCode/tree/main/2542-maximum-subsequence-score/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/kritik0007/LeetCode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/kritik0007/LeetCode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/kritik0007/LeetCode/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 ## Quickselect
 | Problem Name | Difficulty |
