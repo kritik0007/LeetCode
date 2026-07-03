@@ -132,6 +132,7 @@ leetcode problems i have solved
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/kritik0007/LeetCode/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [3225-maximum-score-from-grid-operations](https://github.com/kritik0007/LeetCode/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/kritik0007/LeetCode/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
+| [3620-network-recovery-pathways](https://github.com/kritik0007/LeetCode/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3660-jump-game-ix](https://github.com/kritik0007/LeetCode/tree/main/3660-jump-game-ix/) | Medium |
 | [3699-number-of-zigzag-arrays-i](https://github.com/kritik0007/LeetCode/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/kritik0007/LeetCode/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
@@ -236,6 +237,7 @@ leetcode problems i have solved
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/kritik0007/LeetCode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/kritik0007/LeetCode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/kritik0007/LeetCode/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
+| [3620-network-recovery-pathways](https://github.com/kritik0007/LeetCode/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/kritik0007/LeetCode/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/kritik0007/LeetCode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/kritik0007/LeetCode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
@@ -319,6 +321,7 @@ leetcode problems i have solved
 | [1004-max-consecutive-ones-iii](https://github.com/kritik0007/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/kritik0007/LeetCode/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/kritik0007/LeetCode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [3620-network-recovery-pathways](https://github.com/kritik0007/LeetCode/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/kritik0007/LeetCode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/kritik0007/LeetCode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Interactive
@@ -636,15 +639,18 @@ leetcode problems i have solved
 | [0841-keys-and-rooms](https://github.com/kritik0007/LeetCode/tree/main/0841-keys-and-rooms/) | Medium |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/kritik0007/LeetCode/tree/main/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/kritik0007/LeetCode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3620-network-recovery-pathways](https://github.com/kritik0007/LeetCode/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Shortest Path
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0399-evaluate-division](https://github.com/kritik0007/LeetCode/tree/main/0399-evaluate-division/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/kritik0007/LeetCode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3620-network-recovery-pathways](https://github.com/kritik0007/LeetCode/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0210-course-schedule-ii](https://github.com/kritik0007/LeetCode/tree/main/0210-course-schedule-ii/) | Medium |
+| [3620-network-recovery-pathways](https://github.com/kritik0007/LeetCode/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -661,6 +667,7 @@ leetcode problems i have solved
 | [2542-maximum-subsequence-score](https://github.com/kritik0007/LeetCode/tree/main/2542-maximum-subsequence-score/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/kritik0007/LeetCode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/kritik0007/LeetCode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3620-network-recovery-pathways](https://github.com/kritik0007/LeetCode/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3691-maximum-total-subarray-value-ii](https://github.com/kritik0007/LeetCode/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 ## Quickselect
 | Problem Name | Difficulty |
