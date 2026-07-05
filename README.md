@@ -124,6 +124,7 @@ leetcode problems i have solved
 | [0818-race-car](https://github.com/kritik0007/LeetCode/tree/main/0818-race-car/) | Hard |
 | [0887-super-egg-drop](https://github.com/kritik0007/LeetCode/tree/main/0887-super-egg-drop/) | Hard |
 | [1137-n-th-tribonacci-number](https://github.com/kritik0007/LeetCode/tree/main/1137-n-th-tribonacci-number/) | Easy |
+| [1301-number-of-paths-with-max-score](https://github.com/kritik0007/LeetCode/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1340-jump-game-v](https://github.com/kritik0007/LeetCode/tree/main/1340-jump-game-v/) | Hard |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/kritik0007/LeetCode/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/kritik0007/LeetCode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
@@ -203,6 +204,7 @@ leetcode problems i have solved
 | [0994-rotting-oranges](https://github.com/kritik0007/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/kritik0007/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1250-check-if-it-is-a-good-array](https://github.com/kritik0007/LeetCode/tree/main/1250-check-if-it-is-a-good-array/) | Hard |
+| [1301-number-of-paths-with-max-score](https://github.com/kritik0007/LeetCode/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1340-jump-game-v](https://github.com/kritik0007/LeetCode/tree/main/1340-jump-game-v/) | Hard |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/kritik0007/LeetCode/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/kritik0007/LeetCode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
@@ -500,6 +502,7 @@ leetcode problems i have solved
 | [0048-rotate-image](https://github.com/kritik0007/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0542-01-matrix](https://github.com/kritik0007/LeetCode/tree/main/0542-01-matrix/) | Medium |
 | [0994-rotting-oranges](https://github.com/kritik0007/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
+| [1301-number-of-paths-with-max-score](https://github.com/kritik0007/LeetCode/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1861-rotating-the-box](https://github.com/kritik0007/LeetCode/tree/main/1861-rotating-the-box/) | Medium |
 | [1914-cyclically-rotating-a-grid](https://github.com/kritik0007/LeetCode/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/kritik0007/LeetCode/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
